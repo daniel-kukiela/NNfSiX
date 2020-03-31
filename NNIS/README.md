@@ -4,7 +4,7 @@ Implementation of Neural Netowork in Scratch.
 
 This project is strictly related to the book - Neural Networks from Scratch in Python (https://nnfs.io) and is also a form of a joke for April Fool's Day.
 
-Model includes 2 hidden (Dense) layers, 8 neurons each, ReLU activation functions, 10 neurons in output (Dense) layer with Softmax activation function, Cross-entropy loss, calculating of an accuracy, and full backward pass including derivatives, and loss minimalization using backpropagation and simple SGD optimizer.
+Model includes 2 hidden (Dense) layers, 8 neurons each, ReLU activation functions, 10 neurons in output (Dense) layer with Softmax activation function, Cross-entropy loss, calculating of an accuracy, and full backward pass including derivatives, and loss minimization  using backpropagation and simple SGD optimizer.
 
 Helper code allows to draw any MNIST sample during training and prediction, then allow to interact with the model.
 
@@ -27,9 +27,9 @@ Because of Scratch restrictions, mostly inability to pass lists as function vari
 
 # Media
 
-Video showing off the project: [url of video]
+Video showing off the project: [](https://youtu.be/j82Wchkz9I0)
 
-Video of full training process at x1 speed: [url of the video]
+Video of full training process at x1 speed: [](https://youtu.be/oWhorAstLps)
 
 Most of the model was also saved in a form of following images:
 
