@@ -27,7 +27,7 @@ Because of Scratch restrictions, mostly inability to pass lists as function vari
 
 # Media
 
-Video showing off the project: https://youtu.be/j82Wchkz9I0
+Video showing off the project: https://youtu.be/eJ1HdTZAcn4
 
 Video of full training process at x1 speed: https://youtu.be/oWhorAstLps
 
